@@ -1,0 +1,19 @@
+body {
+    font-family: Bahnschrift;
+    font-size: 17px;
+    background-color: #555;
+}
+
+#speech-container {
+    background-color: #fff;
+    width: 60%;
+    margin: auto;
+    display: grid;
+    align-content: center;
+    justify-content: center;
+}
+
+p {
+    margin: 0;
+    margin: 5px auto;
+}
